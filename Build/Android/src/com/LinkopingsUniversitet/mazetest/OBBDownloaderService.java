@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package LinkopingsUniversitet.mazetest;
+package com.LinkopingsUniversitet.mazetest;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return LinkopingsUniversitet.mazetest.AlarmReceiver.class.getName();
+        return com.LinkopingsUniversitet.mazetest.AlarmReceiver.class.getName();
     }
 }

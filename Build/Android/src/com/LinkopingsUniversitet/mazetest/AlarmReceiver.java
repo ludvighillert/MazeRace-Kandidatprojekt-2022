@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package LinkopingsUniversitet.mazetest;
+package com.LinkopingsUniversitet.mazetest;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

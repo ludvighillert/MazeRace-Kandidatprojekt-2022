@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package LinkopingsUniversitet.mazetest;
+package com.LinkopingsUniversitet.mazetest;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
