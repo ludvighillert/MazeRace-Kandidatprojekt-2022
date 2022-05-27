@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.LinkopingsUniversitet.MazeRace;
+package com.LinkopingsUniversitet.PROJECT;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.LinkopingsUniversitet.MazeRace.OBBDownloaderService;
-import com.LinkopingsUniversitet.MazeRace.DownloaderActivity;
+import com.LinkopingsUniversitet.PROJECT.OBBDownloaderService;
+import com.LinkopingsUniversitet.PROJECT.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.LinkopingsUniversitet.MazeRace.OBBData;
+import com.LinkopingsUniversitet.PROJECT.OBBData;
 
 
 public class DownloadShim

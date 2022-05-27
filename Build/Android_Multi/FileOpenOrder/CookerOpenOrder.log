@@ -31,8 +31,8 @@
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Mannequin/NewCharacter/Character.uasset" 30
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/footsteps/step1.uasset" 31
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/footsteps/step3.uasset" 32
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/footsteps/step4.uasset" 33
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/footsteps/step_2.uasset" 34
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/footsteps/step_2.uasset" 33
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/footsteps/step4.uasset" 34
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/footsteps/Footstep_cue.uasset" 35
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/meshes/Plane_material.uasset" 36
 "../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 37
@@ -102,8 +102,8 @@
 "../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 101
 "../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 102
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 103
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 104
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 104
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 105
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 106
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 107
 "../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 108
@@ -163,9 +163,9 @@
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 162
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 163
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 164
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 165
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 166
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 165
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 166
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 167
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 168
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 169
 "../../../Engine/Content/EngineSounds/Master.uasset" 170
@@ -216,40 +216,40 @@
 "../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 215
 "../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 216
 "../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 217
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 218
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 219
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 220
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 221
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 222
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 223
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 224
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 225
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 226
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 227
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 228
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 229
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 230
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 231
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 232
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 233
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 234
-"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 235
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 236
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 237
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 218
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 219
+"../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 220
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 221
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 222
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 223
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 224
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 226
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 227
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 229
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 230
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 231
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 232
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 233
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 234
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 237
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 238
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 239
 "../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 240
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Editor_BuiltData.uasset" 241
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Editor.umap" 242
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Menu/Widgets/PausButton.uasset" 243
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 244
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_MacroVariation.uasset" 245
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 246
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 247
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Ground_Moss.uasset" 248
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Border_diffuse.uasset" 249
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Border_Roughness.uasset" 250
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Border.uasset" 251
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Border_Roughness.uasset" 244
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Border_diffuse.uasset" 245
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Border.uasset" 246
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 247
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_MacroVariation.uasset" 248
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 249
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 250
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Ground_Moss.uasset" 251
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Level4_Mesh.uasset" 252
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/soundeffects/gamemusic.uasset" 253
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/soundeffects/gamemusic_Cue.uasset" 254
@@ -260,17 +260,17 @@
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Maze/Moss002_2K_NormalDX.uasset" 259
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Maze/Moss002_2K_Color.uasset" 260
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Maze2.uasset" 261
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/GroundMasks/GroundMask4.uasset" 262
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 263
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 264
-"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 265
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 266
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Mud/Ground_roughness_001.uasset" 267
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/path/Paving_roughness.uasset" 268
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/path/PavingStones050_1K_Color.uasset" 269
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/path/PavingStones050_1K_NormalDX.uasset" 270
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Mud/Ground023_1K_Color.uasset" 271
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Mud/Ground023_1K_NormalDX.uasset" 272
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/path/PavingStones050_1K_NormalDX.uasset" 262
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/path/PavingStones050_1K_Color.uasset" 263
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/path/Paving_roughness.uasset" 264
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Mud/Ground_roughness_001.uasset" 265
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Mud/Ground023_1K_NormalDX.uasset" 266
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Mud/Ground023_1K_Color.uasset" 267
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 268
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 269
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 271
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/GroundMasks/GroundMask4.uasset" 272
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Ground4.uasset" 273
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/GroundMasks/GroundMask1.uasset" 274
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Ground1.uasset" 275
@@ -313,9 +313,9 @@
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/RedKeyBP.uasset" 312
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Level1_Mesh.uasset" 313
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Menu/Widgets/FindRedKey.uasset" 314
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Door/Wood066_2K_NormalGL.uasset" 315
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Door/Wood066_2K_Color.uasset" 316
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Door/Wood066_2K_Roughness.uasset" 317
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Door/Wood066_2K_Roughness.uasset" 315
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Door/Wood066_2K_NormalGL.uasset" 316
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Textures/Door/Wood066_2K_Color.uasset" 317
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/Door/Door1.uasset" 318
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/DoorV2.uasset" 319
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/soundeffects/431117__inspectorj__door-front-opening-a.uasset" 320
@@ -361,206 +361,206 @@
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Ground6.uasset" 360
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Level6_BuiltData.uasset" 361
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Level6.umap" 362
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Level7_BuiltData.uasset" 363
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Level7_Mesh.uasset" 363
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/GroundMasks/GroundMask7.uasset" 364
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Materials/levelMaterial/Ground7.uasset" 365
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Levels/Level7_Mesh.uasset" 366
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Level7_BuiltData.uasset" 366
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Level7.umap" 367
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 368
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 369
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Ground_Grass.uasset" 370
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/Box.uasset" 371
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/blueprints/Box.uasset" 368
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 369
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 370
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Ground_Grass.uasset" 371
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/WaitingRoom.umap" 372
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Menu/mapMenu.uasset" 373
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Menu/choosemapMenu.umap" 374
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Menu/Widgets/Loadingscreen.uasset" 375
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Menu/Widgets/ServerWidget.uasset" 376
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/Maps/Menu/MainMenu.umap" 377
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 378
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 379
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 380
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 381
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 382
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 383
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 384
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 385
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 386
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 378
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 379
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 380
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 381
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 382
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 383
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 384
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 385
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 386
 "../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 387
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 388
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 389
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 390
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 391
-"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 392
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 393
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 394
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 395
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 396
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 390
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 391
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 392
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 393
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 394
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 395
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 396
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 397
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_AssetPlatform.uasset" 398
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 399
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/Advanced_Lighting.umap" 400
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_TableRound_N.uasset" 401
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_TableRound_M.uasset" 402
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_TableRound.uasset" 403
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_TableRound.uasset" 404
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Statue_N.uasset" 405
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Statue_M.uasset" 406
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_Statue.uasset" 407
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 408
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Statue.uasset" 409
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Chair_N.uasset" 410
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Chair_M.uasset" 411
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_Chair.uasset" 412
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Chair.uasset" 413
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 414
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Copper.uasset" 415
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 416
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 417
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 418
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 419
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 401
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_TableRound_N.uasset" 402
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_TableRound_M.uasset" 403
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_TableRound.uasset" 404
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_TableRound.uasset" 405
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Statue_N.uasset" 406
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Statue_M.uasset" 407
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_Statue.uasset" 408
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 409
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Statue.uasset" 410
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Chair_N.uasset" 411
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Chair_M.uasset" 412
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_Chair.uasset" 413
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Chair.uasset" 414
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 415
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Copper.uasset" 416
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 417
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 418
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 419
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 420
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Basic_Floor.uasset" 421
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Architecture/Floor_400x400.uasset" 422
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/Minimal_Default.umap" 423
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Shapes/Shape_Sphere.uasset" 424
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Shapes/Shape_Cube.uasset" 425
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_WindowFrame.uasset" 426
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_PillarFrame.uasset" 427
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Glass.uasset" 428
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_GlassWindow.uasset" 429
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_DoorFrame.uasset" 430
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_CornerFrame.uasset" 431
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/MaterialSphere.uasset" 432
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 433
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 434
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 435
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 436
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 437
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 438
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 439
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 440
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Pine.uasset" 441
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 442
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 443
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Oak.uasset" 444
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 445
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 446
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 447
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 448
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 449
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 450
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Water_M.uasset" 451
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Water_N.uasset" 452
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 453
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Water_Ocean.uasset" 454
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Water_Lake.uasset" 455
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 456
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 457
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Panel.uasset" 458
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 459
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 460
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 461
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 462
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 463
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 464
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 465
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 466
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 467
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 468
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 469
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Slate.uasset" 470
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 471
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 472
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 473
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 474
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 475
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 476
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 477
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 478
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 479
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Rust.uasset" 480
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 481
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 482
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 483
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 484
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 485
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 486
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 487
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 488
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 489
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 490
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 491
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 492
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 493
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 494
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 495
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 496
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 497
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 498
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Gradinet_01.uasset" 499
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 500
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 501
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 502
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 503
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 504
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 505
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 506
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 507
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 508
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 509
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 510
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 511
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 512
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 513
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 514
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 515
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 516
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 517
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 518
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 519
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 520
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 521
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 522
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 523
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 524
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 525
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 526
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 527
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 528
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 529
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 530
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 531
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 532
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Lamp_N.uasset" 533
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Lamp_M.uasset" 534
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_Lamp.uasset" 535
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 536
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 537
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 538
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 539
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 540
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Steam_Lit.uasset" 541
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Steam01_Cue.uasset" 542
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 543
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Spark_Core.uasset" 544
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Spark.uasset" 545
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 546
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 547
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Sparks.uasset" 548
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 549
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 550
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Smoke.uasset" 551
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Smoke01_Cue.uasset" 552
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 553
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 554
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 555
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 556
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 557
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Fire.uasset" 558
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Fire01_Cue.uasset" 559
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 560
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 561
-"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 562
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Lamp_N.uasset" 424
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Lamp_M.uasset" 425
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/Materials/M_Lamp.uasset" 426
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 427
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 428
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 429
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 430
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Water_N.uasset" 431
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 432
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 433
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 434
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 435
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 436
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 437
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 438
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Fire.uasset" 439
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Fire01_Cue.uasset" 440
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 441
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Smoke.uasset" 442
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Smoke01_Cue.uasset" 443
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 444
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Spark_Core.uasset" 445
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Spark.uasset" 446
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Sparks.uasset" 447
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 448
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 449
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Steam01_Cue.uasset" 450
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Steam_Lit.uasset" 451
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 452
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 453
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 454
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Shapes/Shape_Sphere.uasset" 455
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Shapes/Shape_Cube.uasset" 456
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_WindowFrame.uasset" 457
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_PillarFrame.uasset" 458
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Glass.uasset" 459
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_GlassWindow.uasset" 460
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_DoorFrame.uasset" 461
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/SM_CornerFrame.uasset" 462
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Props/MaterialSphere.uasset" 463
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 464
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 465
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 466
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 467
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 468
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 469
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 470
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 471
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Pine.uasset" 472
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 473
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 474
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Oak.uasset" 475
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 476
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 477
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 478
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 479
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 480
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 481
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Water_M.uasset" 482
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 483
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Water_Ocean.uasset" 484
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Water_Lake.uasset" 485
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 486
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 487
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Panel.uasset" 488
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 489
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 490
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 491
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 492
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 493
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 494
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 495
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 496
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 497
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 498
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 499
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Slate.uasset" 500
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 501
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 502
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 503
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 504
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 505
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 506
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 507
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 508
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 509
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Rust.uasset" 510
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 511
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 512
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 513
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 514
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 515
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 516
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 517
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 518
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 519
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 520
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 521
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 522
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 523
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 524
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 525
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 526
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 527
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 528
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Gradinet_01.uasset" 529
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 530
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 531
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 532
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 533
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 534
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 535
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 536
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 537
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 538
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 539
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 540
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 541
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 542
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 543
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 544
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 545
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 546
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 547
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 548
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 549
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 550
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 551
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 552
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 553
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 554
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 555
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 556
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 557
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 558
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 559
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 560
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 561
+"../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 562
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 563
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Audio/Collapse_Cue.uasset" 564
 "../../../../../../Creative stuph/GitHub Repos/mazetest/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 565
